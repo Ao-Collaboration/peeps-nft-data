@@ -15,10 +15,6 @@
         "value": "Denim Shorts"
       },
       {
-        "trait_type": "Shoes",
-        "value": "Black High Tops"
-      },
-      {
         "trait_type": "District",
         "value": "Mountains"
       },
@@ -32,7 +28,7 @@
       },
       {
         "trait_type": "Eyes - Colour",
-        "value": "Hazel"
+        "value": "Brown"
       },
       {
         "trait_type": "Eyes - Lashes",
@@ -40,7 +36,7 @@
       },
       {
         "trait_type": "Skin - Tone",
-        "value": "Ivory"
+        "value": "Porcelain"
       },
       {
         "trait_type": "Hair - Style",
@@ -52,7 +48,7 @@
       },
       {
         "trait_type": "Expression",
-        "value": "Concentrate"
+        "value": "Blush"
       },
       {
         "trait_type": "Stick Figure Poses",
@@ -68,5 +64,5 @@
       }
     ]
   },
-  "imageHash": "0xb0c8ca8fc26ef33b9958af591ed06cfe4bb647167563e104437002e5e751167c"
+  "imageHash": "0x28368a9d9d5915299ad7311defb03c88a73a552e31a0e2aa20e19554768e82fc"
 }
