@@ -33,3 +33,16 @@ python3 cull_script.py --peep-dir ../../peep --dry-run
 ```
 
 For detailed documentation, see the [Scripts Overview](scripts/README.md).
+
+## License
+
+This repository's NFT metadata and related media are **not** provided under a generic
+open-source license.
+
+- Rights for Peeps Club NFT materials are governed by the official
+  [Peeps Club Terms and Conditions](https://peeps.club/terms-and-conditions).
+- In general, those terms provide limited personal, non-commercial display rights and
+  marketplace display rights tied to NFT ownership.
+- Publishing this repository does not grant additional IP rights.
+
+See [LICENSE](LICENSE) for the repository license notice.
