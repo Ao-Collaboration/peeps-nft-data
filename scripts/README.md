@@ -44,6 +44,21 @@ python cull_script.py --peep-dir ../../peep --dry-run
 
 [Full Documentation →](cull/README.md)
 
+### Migrate (`migrate/`)
+
+A Python script to migrate image URLs in JSON metadata files from `api.peeps.club` to `data.peeps.club`.
+
+**Features:**
+- Batch update JSON metadata files
+- Dry run mode for safety
+
+**Quick Start:**
+```bash
+cd migrate
+python migrate_image_url.py --dry-run  # Preview changes
+python migrate_image_url.py            # Apply changes
+```
+
 ## Directory Structure
 
 ```
@@ -54,11 +69,13 @@ scripts/
 │   ├── setup_venv.sh        # Virtual environment setup
 │   ├── requirements.txt     # Python dependencies
 │   └── README.md            # Detailed documentation
-└── cull/                    # File culling functionality
-    ├── cull_script.py       # Main cull script
-    ├── setup_venv.sh        # Virtual environment setup
-    ├── requirements.txt     # Python dependencies
-    └── README.md            # Detailed documentation
+├── cull/                    # File culling functionality
+│   ├── cull_script.py       # Main cull script
+│   ├── setup_venv.sh        # Virtual environment setup
+│   ├── requirements.txt     # Python dependencies
+│   └── README.md            # Detailed documentation
+└── migrate/                 # Data migration scripts
+    └── migrate_image_url.py # Image URL migration script
 ```
 
 ## Getting Started
@@ -76,6 +93,9 @@ Use the S3 downloader to download NFT metadata and images from an S3 bucket.
 
 ### Cleaning Up Local Files
 Use the cull script to remove non-official files by comparing against the Ethereum contract.
+
+### Migrating Data
+Use the migrate script to update image URLs or other data across all JSON files.
 
 ## Requirements
 
