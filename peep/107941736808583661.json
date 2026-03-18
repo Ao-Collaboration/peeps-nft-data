@@ -1,64 +1,64 @@
 {
-    "name": "MilkyTaste",
-    "description": "A diverse and family-friendly NFT community. Holding a Peep grants you access to members-only benefits. Visit our website and socials to learn more about Peeps Club. https://peeps.club",
-    "image": "https://data.peeps.club/107941736808583661.png",
-    "external_url": "https://peeps.club",
-    "attributes": [
-      {
-        "trait_type": "Tops - Shirt",
-        "value": "Muscle T-Shirt"
-      },
-      {
-        "trait_type": "Bottoms - Shorts",
-        "value": "Denim Shorts"
-      },
-      {
-        "trait_type": "District",
-        "value": "Mountains"
-      },
-      {
-        "trait_type": "Time",
-        "value": "Night"
-      },
-      {
-        "trait_type": "Eyes - Style",
-        "value": "Classic"
-      },
-      {
-        "trait_type": "Eyes - Colour",
-        "value": "Brown"
-      },
-      {
-        "trait_type": "Eyes - Lashes",
-        "value": "Outline"
-      },
-      {
-        "trait_type": "Skin - Tone",
-        "value": "Porcelain"
-      },
-      {
-        "trait_type": "Hair - Style",
-        "value": "Quiff"
-      },
-      {
-        "trait_type": "Hair - Colour",
-        "value": "Dark Brown"
-      },
-      {
-        "trait_type": "Expression",
-        "value": "Blush"
-      },
-      {
-        "trait_type": "Stick Figure Poses",
-        "value": "Basic"
-      },
-      {
-        "trait_type": "Birthday",
-        "value": "29 January"
-      },
-      {
-        "trait_type": "Name",
-        "value": "MilkyTaste"
-      }
-    ]
+  "name": "MilkyTaste",
+  "description": "A diverse and family-friendly NFT community. Holding a Peep grants you access to members-only benefits. Visit our website and socials to learn more about Peeps Club. https://peeps.club",
+  "image": "https://data.peeps.club/107941736808583661.png",
+  "external_url": "https://peeps.club",
+  "attributes": [
+    {
+      "trait_type": "Tops - Shirt",
+      "value": "Muscle T-Shirt"
+    },
+    {
+      "trait_type": "Bottoms - Shorts",
+      "value": "Denim Shorts"
+    },
+    {
+      "trait_type": "District",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "Time",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Eyes - Style",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Eyes - Colour",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Eyes - Lashes",
+      "value": "Outline"
+    },
+    {
+      "trait_type": "Skin - Tone",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "Hair - Style",
+      "value": "Quiff"
+    },
+    {
+      "trait_type": "Hair - Colour",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Concentrate"
+    },
+    {
+      "trait_type": "Stick Figure Poses",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Birthday",
+      "value": "29 January"
+    },
+    {
+      "trait_type": "Name",
+      "value": "MilkyTaste"
+    }
+  ]
 }
